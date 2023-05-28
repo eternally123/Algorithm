@@ -1,7 +1,10 @@
+# vscode
+.vscode/
 # Prerequisites
 *.d
 
 # Compiled Object files
+main
 *.slo
 *.lo
 *.o
